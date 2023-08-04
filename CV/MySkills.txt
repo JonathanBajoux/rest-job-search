@@ -1,3 +1,6 @@
+html
+css
+javascript
 php
 sql server
 angular
